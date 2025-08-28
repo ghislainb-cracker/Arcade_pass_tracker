@@ -70,7 +70,7 @@ games_available = total_tokens // tokens_per_game
 #    - total tokens
 #    - total cost
 #    - games available
-
+print("==== Arcade Day Pass Tracker ====")
 
 
 
