@@ -81,4 +81,4 @@ print("Games available", games_available)
 
 name = input("what is your name?: ")
 
-print("Hello "+ name +"!" );
+print("Hello "+ name +"!" )
