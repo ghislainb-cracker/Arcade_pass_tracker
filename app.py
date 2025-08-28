@@ -80,3 +80,5 @@ print("Games available", games_available)
 # working with user input
 
 name = input("what is your name?: ")
+
+print("Hello "+ name +"!" );
