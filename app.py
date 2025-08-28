@@ -62,7 +62,7 @@ tokens_per_game = 3
 #    - games available  (use 'floor division' to get a whole number)
 total_tokens = number_of_passes * token_per_pass
 total_cost = number_of_passes * price_per_pass
-
+games_available = total_tokens // tokens_per_game
 #
 # 3) Print a summary with:
 #    - customer name
