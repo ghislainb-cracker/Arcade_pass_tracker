@@ -39,7 +39,7 @@ g = float(1)
 h = float("32")
 i = float("12.4")
 
-print([a, b, c, d, e, f, g, h, i]);
+print([a, b, c, d, e, f, g, h, i])
 
 # 🕹️ Arcade Day Pass Tracker — Challenge Steps
 #
@@ -53,7 +53,7 @@ print([a, b, c, d, e, f, g, h, i]);
 customer_name = "ghislain"
 number_of_passes = 3
 token_per_pass = 30
-price_per_pass =15.00
+price_per_pass = 15.00
 tokens_per_game = 3
 #
 # 2) Calculate:
@@ -81,4 +81,4 @@ print("Games available", games_available)
 
 name = input("what is your name?: ")
 age = input("How old are you?: ")
-print("Hello "+ name +"! you're now "+ age + " years old")
+print("Hello " + name + "! you're now " + age + " years old")
