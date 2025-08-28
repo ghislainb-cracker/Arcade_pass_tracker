@@ -75,3 +75,8 @@ print("customer name: ", customer_name)
 print("Passes bought", number_of_passes)
 print("total token: $", total_tokens)
 print("Games available", games_available)
+
+
+# working with user input
+
+name = input("what is your name?: ")
