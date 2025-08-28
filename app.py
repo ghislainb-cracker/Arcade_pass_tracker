@@ -71,6 +71,6 @@ games_available = total_tokens // tokens_per_game
 #    - total cost
 #    - games available
 print("==== Arcade Day Pass Tracker ====")
-
+print("customer name: ", customer_name)
 
 
