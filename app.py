@@ -39,3 +39,4 @@ g = float(1)
 h = float("32")
 i = float("12.4")
 
+print([a, b, c, d, e, f, g, h, i])
