@@ -37,5 +37,5 @@ e = int(3.5)
 f = int(3.5)
 g = float(1)
 h = float("32")
-
+i = float("12.4")
 
