@@ -82,4 +82,4 @@ print("Games available", games_available)
 name = input("what is your name?: ")
 age = input("How old are you?: ")
 
-print("Hello "+ name +"!" )
+print("Hello "+ name +"! you're now "+ age + " years old")
