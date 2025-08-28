@@ -35,7 +35,7 @@ c = str(3.5)
 d = int("3")
 e = int(3.5)
 f = int(3.5)
-
+g = float(1)
 
 
 
