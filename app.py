@@ -81,5 +81,8 @@ games_available = total_tokens // tokens_per_game
 
 # name = input("what is your name?: ")
 # age = input("How old are you?: ")
+# print("Hello " + name + "! you're now " + age + " years old");
 
-
+name = input("what is your name?: ")
+kilometers = input("Enter the kilometers")
+miles = kilometers // 1.609
