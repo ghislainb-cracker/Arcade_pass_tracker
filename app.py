@@ -70,15 +70,16 @@ games_available = total_tokens // tokens_per_game
 #    - total tokens
 #    - total cost
 #    - games available
-print("==== Arcade Day Pass Tracker ====")
-print("customer name: ", customer_name)
-print("Passes bought", number_of_passes)
-print("total token: $", total_tokens)
-print("Games available", games_available)
+# print("==== Arcade Day Pass Tracker ====")
+# print("customer name: ", customer_name)
+# print("Passes bought", number_of_passes)
+# print("total token: $", total_tokens)
+# print("Games available", games_available)
 
 
 # working with user input
 
-name = input("what is your name?: ")
-age = input("How old are you?: ")
-print("Hello " + name + "! you're now " + age + " years old")
+# name = input("what is your name?: ")
+# age = input("How old are you?: ")
+
+
