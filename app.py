@@ -84,7 +84,8 @@
 # print("Hello " + name + "! you're now " + age + " years old");
 
 name = input("what is your name?: ")
-kilometers = input("Enter the kilometers")
-miles = kilometers // 1.609
+named = name.upper()
+kilometers = input("Enter the kilometers: ")
+miles = int(kilometers) / 1.609
 
-print("Hello "+ name +" you're now "+ kilometers+'km, which is '+ miles+' miles');
+print("Hello "+ named +" you're now "+ str(kilometers)+'km, which is '+ str(miles)+' miles');
