@@ -88,4 +88,5 @@ named = name.upper()
 kilometers = input("Enter the kilometers: ")
 miles = int(kilometers) / 1.609
 
-print("Hello "+ named +" you're now "+ str(kilometers)+'km, which is '+ str(miles)+' miles');
+# print("Hello "+ named +" you're now "+ str(kilometers)+'km, which is '+ str(miles)+' miles');
+print(f'Heloo {name[0].upper()} you\'re now {kilometers} far away, which is {round(miles,1)}miles')
