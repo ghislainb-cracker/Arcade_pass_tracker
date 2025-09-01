@@ -213,12 +213,6 @@
 # # "Python"
 # print(message[5:])
 
-# # "loPyt" → every 2nd character starting from index 3
-# print(message[3::2])
-# # Reverse the string and print it.
-# print(message[::-1])
-# # Print the length of the string.
-# print((len(message)))
 
 
 
