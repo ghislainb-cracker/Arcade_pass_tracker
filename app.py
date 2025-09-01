@@ -139,7 +139,15 @@
 # print("My name is " + first_name + " "+ last_name);
 # print("I am ",age, "years old and my height is", height, "meters")
 
-
+# # Challenge two
+# # Take two numbers (num1, num2).
+# num1 = 10
+# num2 = 5
+# # Print their sum, difference, product, and division.
+# print(num1 + num2)
+# print(num1 - num2)
+# print(num1 * num2)
+# print(num1 / num2)
 
 
 
