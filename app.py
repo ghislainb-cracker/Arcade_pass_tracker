@@ -201,17 +201,7 @@
 
 
 
-# # Create a string variable: "HelloPython"
-# message = "HelloPython"
-# # Print the first character, last character, and 5th character.
-# print(message[0])
-# print(message[-1])
-# print(message[5])
-# # Slice the string to print:
-# # "Hello"
-# print(message[0:5])
-# # "Python"
-# print(message[5:])
+
 
 
 
