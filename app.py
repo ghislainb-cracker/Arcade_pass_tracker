@@ -222,16 +222,16 @@
 
 
 
-# # Create a string: "I love coding in Python"
-# message = "I love coding in Python"
-# # Find the index of "Python" and print it.
-# index = message.find("Python")
-# print("Python is at index:",index)
-# # Replace "Python" with "Java" and print the new string.
-# new_message = message.replace("Python", "JavaScript");
-# print(new_message)
-# # Create a string: "banana"
-# word = "banana"
-# # Replace all "a" with "o" and print the result.
-# new_word = word.replace("a", "o")
-# print(new_word)
+# Create a string: "I love coding in Python"
+message = "I love coding in Python"
+# Find the index of "Python" and print it.
+index = message.find("Python")
+print("Python is at index:",index)
+# Replace "Python" with "Java" and print the new string.
+new_message = message.replace("Python", "JavaScript");
+print(new_message)
+# Create a string: "banana"
+word = "banana"
+# Replace all "a" with "o" and print the result.
+new_word = word.replace("a", "o")
+print(new_word)
