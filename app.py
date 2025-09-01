@@ -83,10 +83,155 @@
 # age = input("How old are you?: ")
 # print("Hello " + name + "! you're now " + age + " years old");
 
-name = input("what is your name?: ")
-named = name.upper()
-kilometers = input("Enter the kilometers: ")
-miles = int(kilometers) / 1.609
+# name = input("what is your name?: ")
+# # named = name.upper()
+# kilometers = input("Enter the kilometers: ")
+# miles = int(kilometers) / 1.609
 
-# print("Hello "+ named +" you're now "+ str(kilometers)+'km, which is '+ str(miles)+' miles');
-print(f'Heloo {name[0].upper()} you\'re now {kilometers} far away, which is {round(miles,1)}miles')
+# # print("Hello "+ named +" you're now "+ str(kilometers)+'km, which is '+ str(miles)+' miles');
+# print(f'Heloo {name[0].upper()} you\'re now {kilometers} far away, which is {round(miles,1)}miles')
+
+# msg = "welcome to Python 101: strings"
+# msg1 = msg[18]+' '+msg[:8]+msg[25:29]+msg[7:11]+msg[13]+msg[12]+msg[2]+msg[1]+msg[-5]
+# print(msg1.title())
+# print([msg[18],msg[:8],msg[25:29],msg[7:11],msg[13],msg[12],msg[2],msg[1],msg[-5]])
+# print(msg1[::-1].title())
+
+# # Create variables:
+
+# # an integer for your age
+# age = 24
+# # a float for your height
+# height = 1.79
+# # a string for your school name
+# school = "Rwanda Coding Academy"
+# # a boolean for whether you like Python (True/False)
+# likes_python = True
+# # Print them all with their data types using type().
+# print(type(age));
+# print(type(height));
+# print(type(school));
+# print(type(likes_python));
+# # Convert:
+
+# # num1 = "50" (string) → cast it to an integer and add 20
+# num1 = "50"
+# result = int(num1) + 20
+# print(result)
+# # num2 = 45.67 (float) → cast it to integer
+# num2 = 45.67
+# print(int(num2))
+# # num3 = 90 (integer) → cast it to string and join it inside: "My score is ___"
+# num3 = 90
+# print("My score is " + str(num3))
+
+
+# # Challenge one:
+# # Your first name
+# first_name = "Davy"
+# # Your last name
+# last_name = "merci"
+# # Your age (integer)
+# age = 24
+# # Your height (float)
+# height = 1.79
+
+# print("My name is " + first_name + " "+ last_name);
+# print("I am ",age, "years old and my height is", height, "meters")
+
+# # Challenge two
+# # Take two numbers (num1, num2).
+# num1 = 10
+# num2 = 5
+# # Print their sum, difference, product, and division.
+# print(num1 + num2)
+# print(num1 - num2)
+# print(num1 * num2)
+# print(num1 / num2)
+
+# # challenge three
+# # Create a variable marks = "85" (string).
+# marks = "85"
+# # Convert it to integer and add 10.
+# result = int(marks) + 10
+# # Print the result like this:
+# print("My final marks are",result)
+
+
+# # Ask the user for their name and school, then print:
+# name = str(input("What is your name? "))
+# school = str(input("what is your school? "))
+# # Hello <name>, you study at <school>
+# print("Hello " + name + ', ' + 'you study at ' + school);
+
+# # Ask the user for two numbers and print their product.
+# num1 = int(input("Enter first number? "))
+# num2 = int(input("Enter second number? "))
+
+# print("Product is:",num1 * num2)
+
+
+
+# # Create two variables, x = 15 and y = 4.
+# x = 15
+# y = 4
+# # Print: sum, difference, product, division, floor division, modulus, and exponent.
+# print("sum", x + y)
+# print("difference", x - y)
+# print("product", x * y)
+# print("division", x / y)
+# print("flo0r division", x // y)
+# print("modulus", x % y)
+# print("exponent", x ** y)
+# # Ask the user for two numbers and print their sum, product, and remainder.
+# num1 = int(input("Enter your first number?: "))
+# num2 = int(input("Enter your second number?: "))
+
+# print("sum", num1 + num2)
+# print("product", num1 * num2)
+# print("remainder", num1 % num2)
+# # Check if a number entered by the user is even or odd using %.
+# num = int(input("Enter any number you want?: "))
+
+# if num % 2 == 0:
+#     print("even number")
+# else:
+#     print("odd number")    
+
+
+
+
+# # Create a string variable: "HelloPython"
+# message = "HelloPython"
+# # Print the first character, last character, and 5th character.
+# print(message[0])
+# print(message[-1])
+# print(message[5])
+# # Slice the string to print:
+# # "Hello"
+# print(message[0:5])
+# # "Python"
+# print(message[5:])
+
+# # "loPyt" → every 2nd character starting from index 3
+# print(message[3::2])
+# # Reverse the string and print it.
+# print(message[::-1])
+# # Print the length of the string.
+# print((len(message)))
+
+
+
+# # Create a string: "I love coding in Python"
+# message = "I love coding in Python"
+# # Find the index of "Python" and print it.
+# index = message.find("Python")
+# print("Python is at index:",index)
+# # Replace "Python" with "Java" and print the new string.
+# new_message = message.replace("Python", "JavaScript");
+# print(new_message)
+# # Create a string: "banana"
+# word = "banana"
+# # Replace all "a" with "o" and print the result.
+# new_word = word.replace("a", "o")
+# print(new_word)
