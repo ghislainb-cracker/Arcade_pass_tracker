@@ -201,8 +201,37 @@
 
 
 
+# # Create a string variable: "HelloPython"
+# message = "HelloPython"
+# # Print the first character, last character, and 5th character.
+# print(message[0])
+# print(message[-1])
+# print(message[5])
+# # Slice the string to print:
+# # "Hello"
+# print(message[0:5])
+# # "Python"
+# print(message[5:])
+
+# # "loPyt" → every 2nd character starting from index 3
+# print(message[3::2])
+# # Reverse the string and print it.
+# print(message[::-1])
+# # Print the length of the string.
+# print((len(message)))
 
 
 
-
-
+# # Create a string: "I love coding in Python"
+# message = "I love coding in Python"
+# # Find the index of "Python" and print it.
+# index = message.find("Python")
+# print("Python is at index:",index)
+# # Replace "Python" with "Java" and print the new string.
+# new_message = message.replace("Python", "JavaScript");
+# print(new_message)
+# # Create a string: "banana"
+# word = "banana"
+# # Replace all "a" with "o" and print the result.
+# new_word = word.replace("a", "o")
+# print(new_word)
