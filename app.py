@@ -172,13 +172,7 @@
 
 
 
-# # Create two variables, x = 15 and y = 4.
-# x = 15
-# y = 4
-# # Print: sum, difference, product, division, floor division, modulus, and exponent.
-# print("sum", x + y)
-# print("difference", x - y)
-# print("product", x * y)
+
 
 
 
