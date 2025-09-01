@@ -114,7 +114,16 @@
 # print(type(likes_python));
 # # Convert:
 
-
+# # num1 = "50" (string) → cast it to an integer and add 20
+# num1 = "50"
+# result = int(num1) + 20
+# print(result)
+# # num2 = 45.67 (float) → cast it to integer
+# num2 = 45.67
+# print(int(num2))
+# # num3 = 90 (integer) → cast it to string and join it inside: "My score is ___"
+# num3 = 90
+# print("My score is " + str(num3))
 
 
 
