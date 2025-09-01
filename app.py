@@ -158,17 +158,7 @@
 # print("My final marks are",result)
 
 
-# # Ask the user for their name and school, then print:
-# name = str(input("What is your name? "))
-# school = str(input("what is your school? "))
-# # Hello <name>, you study at <school>
-# print("Hello " + name + ', ' + 'you study at ' + school);
 
-# # Ask the user for two numbers and print their product.
-# num1 = int(input("Enter first number? "))
-# num2 = int(input("Enter second number? "))
-
-# print("Product is:",num1 * num2)
 
 
 
