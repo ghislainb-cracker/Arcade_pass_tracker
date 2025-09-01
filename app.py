@@ -149,7 +149,13 @@
 # print(num1 * num2)
 # print(num1 / num2)
 
-
+# # challenge three
+# # Create a variable marks = "85" (string).
+# marks = "85"
+# # Convert it to integer and add 10.
+# result = int(marks) + 10
+# # Print the result like this:
+# print("My final marks are",result)
 
 
 
