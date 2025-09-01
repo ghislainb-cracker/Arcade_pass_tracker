@@ -179,13 +179,6 @@
 # print("sum", x + y)
 # print("difference", x - y)
 # print("product", x * y)
-# print("division", x / y)
-# print("flo0r division", x // y)
-# print("modulus", x % y)
-# print("exponent", x ** y)
-# # Ask the user for two numbers and print their sum, product, and remainder.
-# num1 = int(input("Enter your first number?: "))
-# num2 = int(input("Enter your second number?: "))
 
 
 
