@@ -187,8 +187,16 @@
 # num1 = int(input("Enter your first number?: "))
 # num2 = int(input("Enter your second number?: "))
 
+# print("sum", num1 + num2)
+# print("product", num1 * num2)
+# print("remainder", num1 % num2)
+# # Check if a number entered by the user is even or odd using %.
+# num = int(input("Enter any number you want?: "))
 
-
+# if num % 2 == 0:
+#     print("even number")
+# else:
+#     print("odd number")    
 
 
 
