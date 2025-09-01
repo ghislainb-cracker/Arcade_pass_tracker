@@ -126,9 +126,18 @@
 # print("My score is " + str(num3))
 
 
+# # Challenge one:
+# # Your first name
+# first_name = "Davy"
+# # Your last name
+# last_name = "merci"
+# # Your age (integer)
+# age = 24
+# # Your height (float)
+# height = 1.79
 
-
-
+# print("My name is " + first_name + " "+ last_name);
+# print("I am ",age, "years old and my height is", height, "meters")
 
 
 
