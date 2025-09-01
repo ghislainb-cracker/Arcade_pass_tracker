@@ -136,8 +136,7 @@
 # # Your height (float)
 # height = 1.79
 
-# print("My name is " + first_name + " "+ last_name);
-# print("I am ",age, "years old and my height is", height, "meters")
+
 
 
 
