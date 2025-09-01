@@ -193,10 +193,6 @@
 # # Check if a number entered by the user is even or odd using %.
 # num = int(input("Enter any number you want?: "))
 
-# if num % 2 == 0:
-#     print("even number")
-# else:
-#     print("odd number")    
 
 
 
